@@ -444,6 +444,7 @@ public class Main {
                                         System.out.println("This begins your addiction to ice cream. You gain so much weight that you can't leave your house. You also develop a love of video games, and start making YouTube videos of you playing. You end up making millions of dollars, and pay for gastric bypass surgery. You live out the rest of your life healthy, happy, and rich.");
                                         break;
                                 }
+                                break;
                                 //case fourth tier you go to bed
                             case "sleep":
                                 System.out.println("You go to your room and put on your PJs. Do you go to the bathroom before bed? Y/N");
